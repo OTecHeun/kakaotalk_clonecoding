@@ -1,6 +1,6 @@
 # [클론코딩] KakaoTalk
 
-**미리보기**
+**미리보기입니다.**
 
 ![kao_profile](https://user-images.githubusercontent.com/104907318/184522472-7d6eff4f-3f7a-49f2-8591-801c6eb7a964.png)
 ![kao_list](https://user-images.githubusercontent.com/104907318/184522473-0097e1d5-913a-48a4-89da-0b619178d6ac.png)
